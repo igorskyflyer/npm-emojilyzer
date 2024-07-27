@@ -1,6 +1,6 @@
 ## 📒 Changelog
 
-### of [@igor.dvlpr/$pkg](https://github.com/igorskyflyer/$repo)
+### of [@igor.dvlpr/emojilyzer](https://github.com/igorskyflyer/npm-emojilyzer)
 
 <br>
 
