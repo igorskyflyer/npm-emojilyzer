@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-	💬 Emojifies text content, converting textual-representations of emojis to graphics one. 🖌️
+	💬 Emojifies strings, converting textual-representations of emojis to graphics one. 🖌️
 </div>
 
 <br>
