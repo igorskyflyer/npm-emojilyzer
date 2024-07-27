@@ -1,9 +1,15 @@
-<h1 align="center">$project</h1>
+<h1 align="center">Emojilyzer 😁</h1>
 
 <br>
 
 <div align="center">
-	$desc
+	<img src="https://raw.githubusercontent.com/igorskyflyer/npm-emojilyzer/main/assets/icon.png" width="128" height="128" alt="Emojilyzer logo">
+</div>
+
+<br>
+
+<div align="center">
+	💬 Emojifies text content, converting textual-representations of emojis to graphics one. 🖌️
 </div>
 
 <br>
@@ -54,7 +60,7 @@
 Install it by executing:
 
 ```shell
-npm i "@igor.dvlpr/$pkg"
+npm i "@igor.dvlpr/emojilyzer"
 ```
 
 <br>
@@ -65,8 +71,8 @@ npm i "@igor.dvlpr/$pkg"
 
 ## ✨ Examples
 
-``
-```
+`example.ts`
+```ts
 
 ```
 
@@ -74,37 +80,45 @@ npm i "@igor.dvlpr/$pkg"
 
 ## 📝 Changelog
 
-📑 The changelog is available here: [CHANGELOG.md](https://github.com/igorskyflyer/$repo/blob/main/CHANGELOG.md).
+📑 The changelog is available here: [CHANGELOG.md](https://github.com/igorskyflyer/npm-emojilyzer/blob/main/CHANGELOG.md).
 
 ---
 
 ## 🪪 License
 
-Licensed under the MIT license which is available here, [MIT license](https://github.com/igorskyflyer/$repo/blob/main/LICENSE).
+Licensed under the MIT license which is available here, [MIT license](https://github.com/igorskyflyer/npm-emojilyzer/blob/main/LICENSE).
 
 ---
 
 ## 🧬 Related
 
-[]()
+[@igor.dvlpr/regkeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys)
 
-> __
+> _📚 An NPM package for fetching Windows registry keys. 🗝_
 
-[]()
+<br>
 
-> __
+[@igor.dvlpr/normalized-string](https://www.npmjs.com/package/@igor.dvlpr/normalized-string)
 
-[]()
+> _💊 NormalizedString provides you with a String type with consistent line-endings, guaranteed. 📮_
 
-> __
+<br>
 
-[]()
+[@igor.dvlpr/strip-headings](https://www.npmjs.com/package/@igor.dvlpr/strip-headings)
 
-> __
+> _⛸ Strips Markdown headings!🏹_
 
-[]()
+<br>
 
-> __
+[@igor.dvlpr/my-file-path](https://www.npmjs.com/package/@igor.dvlpr/my-file-path)
+
+> _🌟 An npm module that strongly types file paths! 🥊_
+
+<br>
+
+[@igor.dvlpr/simple-exec](https://www.npmjs.com/package/@igor.dvlpr/simple-exec)
+
+> _🕺 Command. Execution. Made. Simple. ▶_
 
 ---
 
