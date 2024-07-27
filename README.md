@@ -1,4 +1,4 @@
-<h1 align="center">Emojilyzer 😁</h1>
+<h1 align="center">Emojilyzer</h1>
 
 <br>
 
