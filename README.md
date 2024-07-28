@@ -67,6 +67,14 @@ npm i "@igor.dvlpr/emojilyzer"
 
 ## 🤹🏼 API
 
+### `emojify(text: string): string`
+
+*Emojifies the given string `text`.*  
+
+`text` - The string to emojify (convert textual representation of emoticons to the graphic one).  
+
+Returns the emojified string or an empty string if no input is passed.
+
 ---
 
 ## ✨ Examples
@@ -92,6 +100,25 @@ P.S. Did you see the latest movie that came out? It was so awesome! :3 I was on 
 
 Catch you later! ;)`)
 )
+
+// Will log
+
+`Hey there! 🙂 How's it going? 🙂
+I just wanted to check in and see if you're free for a coffee later today. I've got some exciting news to share!
+
+Yesterday, I went to this amazing concert and the band was just phenomenal!
+The crowd was going wild and I even got to meet the lead singer after the show!
+Can you believe it?! 😂
+
+After the concert, we grabbed some delicious food and talked about all sorts of things. It was such a great night. 🙂 Anyway, let me know if you're up for coffee! 😉
+
+I hope everything is going well with you. 😄 I've been super busy lately, but it's all good!
+
+Talk soon! ❤️
+
+P.S. Did you see the latest movie that came out? It was so awesome! 😸 I was on the edge of my seat the whole time.
+
+Catch you later! 😉`
 ```
 
 ---
