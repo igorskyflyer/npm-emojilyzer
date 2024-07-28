@@ -1,7 +1,7 @@
 {
     "name": "@igor.dvlpr/emojilyzer",
     "version": "1.0.0",
-    "description": "💬 Emojifies strings, converting textual-representations of emojis to graphics one. 🖌️",
+    "description": "💬 Emojifies strings, converting textual representations of emojis to graphical ones. 🖌️",
     "sideEffects": false,
     "engines": {
         "node": ">=20.0"
