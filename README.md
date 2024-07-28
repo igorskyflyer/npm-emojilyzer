@@ -46,7 +46,7 @@
 
 - [Usage](#-usage)
 - [API](#-api)
-      [emojify()](#emojifytext-string-string)
+  - [emojify()](#emojifytext-string-string)
 - [Examples](#-examples)
 - [Changelog](#-changelog)
 - [License](#-license)
