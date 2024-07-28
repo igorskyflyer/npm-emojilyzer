@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-	💬 Emojifies strings, converting textual-representations of emojis to graphics one. 🖌️
+	💬 Emojifies strings, converting textual representations of emojis to graphical ones. 🖌️
 </div>
 
 <br>
@@ -72,7 +72,7 @@ npm i "@igor.dvlpr/emojilyzer"
 
 *Emojifies the given string `text`.*  
 
-`text` - The string to emojify (convert textual representation of emoticons to the graphic one).  
+`text` - The string to emojify (convert textual representations of emojis to graphical ones).  
 
 Returns the emojified string or an empty string if no input is passed.
 
