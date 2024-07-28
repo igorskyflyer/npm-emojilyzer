@@ -38,7 +38,7 @@ replacer.addRules({
 
 /**
  * Emojifies the given string `text`.
- * @param text The string to emojify (convert textual representation of emoticons to the graphic one).
+ * @param text The string to emojify (convert textual representations of emojis to graphical ones).
  * @returns The emojified string or an empty string if no input is passed.
  */
 export function emojify(text: string): string {
