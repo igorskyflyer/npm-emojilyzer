@@ -1,6 +1,6 @@
 // Author: Igor Dimitrijević (@igorskyflyer)
 
-import { MappedReplacer } from '@igor.dvlpr/mapped-replacer'
+import { MappedReplacer } from '@igorskyflyer/mapped-replacer'
 
 const replacer: MappedReplacer = new MappedReplacer({
   caseSensitive: false,
