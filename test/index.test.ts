@@ -1,7 +1,7 @@
 // Author: Igor Dimitrijević (@igorskyflyer)
 
 import { assert, describe, test } from 'vitest'
-import { emojify } from '../src/index.mts'
+import { emojify } from '../src/index.js'
 
 describe('🧪 Emojilyzer 😁 tests 🧪', () => {
   test('#1 should be true', () => {
