@@ -30,13 +30,13 @@
 
 ## 🤖 Features
 
-⚡ One‑liner API - `emojify("Hello :)")` → `"Hello 🙂"`
-🧠 Powered by [`MappedReplacer`](https://www.npmjs.com/package/@igorskyflyer/mapped-replacer) - a blazing‑fast, battle‑tested replacement engine
-🔍 Strict matching - no accidental half‑matches or false positives
-🔡 Case‑insensitive - XD, xd, Xd all become 😂
-🎨 Rich mapping set - covers classic emoticons, leetspeak, and niche faces
-🪶 Zero config - works out of the box, no setup required
-🛡 Safe fallback - returns original text if nothing matches
+- ⚡ One‑liner API - `emojify("Hello :)")` → `"Hello 🙂"`
+- 🧠 Powered by [`MappedReplacer`](https://www.npmjs.com/package/@igorskyflyer/mapped-replacer) - a blazing‑fast, battle‑tested replacement engine
+- 🔍 Strict matching - no accidental half‑matches or false positives
+- 🔡 Case‑insensitive - XD, xd, Xd all become 😂
+- 🎨 Rich mapping set - covers classic emoticons, leetspeak, and niche faces
+- 🪶 Zero config - works out of the box, no setup required
+- 🛡 Safe fallback - returns original text if nothing matches
 
 <br>
 <br>
