@@ -1,35 +1,51 @@
 {
-    "name": "@igor.dvlpr/emojilyzer",
-    "version": "1.0.0",
+    "name": "@igorskyflyer/emojilyzer",
+    "version": "1.1.0",
     "description": "💬 Emojifies strings, converting textual representations of emojis to graphical ones. 🖌️",
     "sideEffects": false,
     "engines": {
-        "node": ">=20.0"
+        "node": ">=22.0"
     },
-    "types": "./dist/index.d.mts",
-    "main": "./dist/index.mjs",
-    "module": "./dist/index.mjs",
-    "files": ["./dist"],
+    "type": "module",
+    "types": "./dist/index.d.ts",
+    "main": "./dist/index.js",
+    "module": "./dist/index.js",
+    "files": [
+        "dist"
+    ],
     "scripts": {
         "build": "tsc",
         "test": "vitest --run",
-        "debug": "vitest",
-        "pub": "npm test && npm run build && npm publish --access public"
+        "pub": "pnpm test && git push origin main --tags"
     },
     "keywords": [
         "emoji",
-        "emojify",
-        "smile",
-        "smiley",
-        "face",
         "laugh",
         "comment",
         "forum",
-        "igorskyflyer",
-        "igor.dvlpr"
+        "emojify",
+        "emojifier",
+        "emojilyzer",
+        "emoticon",
+        "emoticons",
+        "text-to-emoji",
+        "emoji-converter",
+        "emoji-replacer",
+        "emoji-parser",
+        "emoji-transform",
+        "emoji-utils",
+        "string-replace",
+        "text-replace",
+        "mapped-replacer",
+        "chat",
+        "messaging",
+        "fun",
+        "unicode",
+        "symbols",
+        "igorskyflyer"
     ],
     "license": "MIT",
-    "author": "Igor Dimitrijević <igor.dvlpr@gmail.com> (https://github.com/igorskyflyer)",
+    "author": "Igor Dimitrijević <support@igorskyflyer.me> (https://github.com/igorskyflyer)",
     "funding": "https://ko-fi.com/igorskyflyer",
     "homepage": "https://github.com/igorskyflyer/npm-emojilyzer",
     "repository": {
@@ -39,14 +55,18 @@
     "bugs": {
         "url": "https://github.com/igorskyflyer/npm-emojilyzer/issues"
     },
-    "devDependencies": {
-        "@biomejs/biome": "^1.8.3",
-        "@igor.dvlpr/biome-config-igorskyflyer": "^1.0.0",
-        "@types/node": "^20.14.13",
-        "typescript": "^5.5.4",
-        "vitest": "^2.0.4"
-    },
     "dependencies": {
-        "@igor.dvlpr/mapped-replacer": "^2.2.0"
-    }
+        "@igorskyflyer/mapped-replacer": "^3.0.0"
+    },
+    "devDependencies": {
+        "@biomejs/biome": "^2.2.2",
+        "@igorskyflyer/biome-config": "^2.1.0",
+        "@types/node": "^22.18.0",
+        "typescript": "^5.9.2",
+        "vitest": "^3.2.4"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "packageManager": "pnpm@10.15.0"
 }
